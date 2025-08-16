@@ -6,7 +6,7 @@ import Contact from './components/pages/Contact.jsx';
 import Navbar from './components/layout/Navbar.jsx';
 import Tools from "./components/pages/Tools.jsx";
 import Bmi from "./components/pages/Bmi";
-import Age from "./components/pages/age.jsx";
+import Age from "./components/pages/Age.jsx";
 
 
 function App() {
